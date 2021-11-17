@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  align-items: center;
+}
+label {
+  margin: 4;
+  width: 10%;
+}
+input {
+  margin: 4;
+  width: 10%;
+}
+button {
+  background: lightgray;
+  width: 10%;
+}
+table {
+  /* border: 1px solid black; */
+  width: 50%;
+  padding: 5px;
+}
+tr {
+  padding: 2px;
+  border: blue;
+  height: 4px;
+  width: auto;
+}
